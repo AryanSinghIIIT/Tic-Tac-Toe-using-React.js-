@@ -1,7 +1,6 @@
 # Live Demo
 https://tic-tac-toe-devaryan.netlify.app/
 
-![Screenshot (121)](https://user-images.githubusercontent.com/96579866/160059678-1f63bb6e-51e5-476e-a4c0-35d557becd46.png)
 
 ![Screenshot (122)](https://user-images.githubusercontent.com/96579866/160059680-e7d294fe-593e-46dc-8570-a26a3c99fdd4.png)
 
